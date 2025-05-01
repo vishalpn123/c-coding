@@ -8,7 +8,7 @@ int main() {
     cout << "Original value: " << original << endl;
     cout << "Reference value: " << ref << endl;
 
-    ref = 100;  // Changing the value using the reference
+    ref = 100;  
 
     cout << "Original after modifying ref: " << original << endl;
 
