@@ -10,7 +10,7 @@ int main() {
     bool isPassed = true;    
     string name = "John";    
 
-    // Output the variables
+    
     cout << "Name: " << name << endl;
     cout << "Age: " << age << endl;
     cout << "Height: " << height << " feet" << endl;
