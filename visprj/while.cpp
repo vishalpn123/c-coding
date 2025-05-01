@@ -7,7 +7,7 @@ int main() {
     
     while (count <= 5) {
         cout << "Count is: " << count << endl;
-        count++; // increment count
+        count++; 
     }
 
     return 0;
